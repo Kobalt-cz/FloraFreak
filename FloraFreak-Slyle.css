@@ -1,0 +1,4 @@
+body {
+  height: 3000px; /* Used to enable scrolling */
+  background: linear-gradient( 97deg ,rgba(34, 168, 58, 1) 0%, rgba(97, 189, 47, 1) 48%, rgba(152, 189, 30, 1) 100%);
+}
